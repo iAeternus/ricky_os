@@ -1,0 +1,1 @@
+qemu-system-x86_64 -drive format=raw,file=target/x86_64-ricky_os/debug/bootimage-ricky_os.bin
